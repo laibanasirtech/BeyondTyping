@@ -1,0 +1,82 @@
+text,intent
+open youtube,youtube_open
+launch youtube,youtube_open
+go to youtube,youtube_open
+start youtube app,youtube_open
+open youtube in browser,youtube_open
+search music on youtube,youtube_search
+find coding videos on youtube,youtube_search
+play relaxing songs on youtube,youtube_search
+search for ai tutorials on youtube,youtube_search
+play motivational video,youtube_search
+pause video,youtube_control
+resume video,youtube_control
+next video,youtube_control
+previous video,youtube_control
+stop video,youtube_control
+open browser,browser_open
+launch google chrome,browser_open
+open microsoft edge,browser_open
+search on google,browser_search
+look up python programming,browser_search
+find news on google,browser_search
+open file explorer,file_explorer
+show files,file_explorer
+browse my computer,file_explorer
+open documents folder,file_explorer
+open downloads folder,file_explorer
+create new file,file_create
+make a new text file,file_create
+add new document,file_create
+write hello world in file,file_write
+write this paragraph in document,file_write
+update report with new data,file_write
+save file,file_save
+save my document,file_save
+store progress,file_save
+open the file,file_open
+open pdf file,file_open
+delete this file,file_delete
+remove document,file_delete
+erase that file,file_delete
+move file to documents,file_move
+copy file to desktop,file_move
+transfer file to another folder,file_move
+open whatsapp,whatsapp_open
+launch whatsapp web,whatsapp_open
+open whatsapp desktop,whatsapp_open
+send message to ali on whatsapp,whatsapp_send
+message sara on whatsapp,whatsapp_send
+send good morning on whatsapp,whatsapp_send
+call ali on whatsapp,whatsapp_call
+make whatsapp call,whatsapp_call
+start whatsapp voice call,whatsapp_call
+record voice note for sara,whatsapp_voice_message
+send whatsapp voice message,whatsapp_voice_message
+record and send voice note,whatsapp_voice_message
+open chrome,app_open
+open vs code,app_open
+launch microsoft word,app_open
+start paint,app_open
+open camera,app_open
+what time is it,utility_time
+tell me the time,utility_time
+what date is today,utility_time
+who are you,utility_chat
+what can you do,utility_chat
+tell me a joke,utility_chat
+let's talk,utility_chat
+help me,utility_help
+show all commands,utility_help
+show help,utility_help
+lock system,system_lock
+unlock system,system_unlock
+use voice to unlock,system_unlock
+read screen aloud,screen_reader
+read what's on screen,screen_reader
+read clipboard text,screen_reader
+perform ocr reading,screen_reader
+stop listening,utility_stop
+exit program,utility_stop
+close application,utility_stop
+shut down beyond typing,utility_stop
